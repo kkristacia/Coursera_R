@@ -1,5 +1,6 @@
-This folder is for the peer-graded project.
-Getting and Cleaning Data Course
+This folder is for the peer-graded project.  
+
+Getting and Cleaning Data Course.
 
 There are two files:  
 - Script file called run_analysis.R  

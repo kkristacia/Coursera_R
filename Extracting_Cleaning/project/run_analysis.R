@@ -50,4 +50,4 @@ tidydata <- selecteddata %>%
     summarize_all(mean)
 
 # creating space delimited file
-write.table(tidydata, file= "tidydata.txt", sep = " ")
+write.table(tidydata, file= "tidydata.txt", sep = " ", row.name=FALSE)
